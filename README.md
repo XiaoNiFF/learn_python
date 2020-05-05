@@ -18,8 +18,8 @@
 ## 书籍
 
 - [《简明Python教程》-epub](lib/byte-of-python-chinese-edition.epub)
-- [《Python编程：从入门到实践》-pdf](lib/[图灵程序设计丛书].Python编程：从入门到实践.pdf)  *@侯经理贡献*
-- [《Python 核心编程(第3版)中文完整版》-pdf](/lib/Python%20核心编程(第3版)中文完整版.pdf)  *@侯经理贡献*
+- [《Python编程：从入门到实践》-pdf](lib/[图灵程序设计丛书].Python编程：从入门到实践.pdf)
+- [《Python 核心编程(第3版)中文完整版》-pdf](/lib/Python%20核心编程(第3版)中文完整版.pdf)
 
 
 ## 其他
