@@ -16,6 +16,11 @@
 - [幕课_嵩天](https://www.icourse163.org/u/songtian425?userId=4462001&_trace_c_p_k2_=2287a6b9b75a44c89aca1b969305b34c)
 
 ## 书籍
+
 - [《简明Python教程》-epub](lib/byte-of-python-chinese-edition.epub)
 - [《Python编程：从入门到实践》-pdf](lib/[图灵程序设计丛书].Python编程：从入门到实践.pdf)  *@侯经理贡献*
 - [《Python 核心编程(第3版)中文完整版》-pdf](/lib/Python%20核心编程(第3版)中文完整版.pdf)  *@侯经理贡献*
+
+
+## 其他
+- [如何快速下载github大文件](https://github.com/MinhasKamal/DownGit)
