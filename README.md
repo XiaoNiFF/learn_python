@@ -24,3 +24,4 @@
 
 ## 其他
 - [如何快速下载github大文件](https://github.com/MinhasKamal/DownGit)
+- [Git介绍](https://www.liaoxuefeng.com/wiki/896043488029600/896067008724000)
